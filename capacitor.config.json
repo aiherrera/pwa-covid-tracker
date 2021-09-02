@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "pwa-covid-tracker",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
